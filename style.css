@@ -1,0 +1,133 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+section{
+    height:400px;
+}
+.home{
+    height: 15px;
+}
+.home1{
+    float: right;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    margin-bottom: -8%;
+    font-size: 50px;
+
+}
+.hello{
+    color: rgb(50, 50, 107);
+}
+.name{
+    color: #F26E76;
+    margin-bottom: 1%;
+}
+.half_width{
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float:left;
+}
+
+.half_width img{
+    width: 80%;
+    height: 60%;
+}
+
+.link{
+    padding: 10px 30px;
+    border-radius: 7px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: rgb(50,50,107)
+}
+.banner_title_0{
+    padding-top: 10px;
+
+}
+.banner_title1{
+    color: orange;
+}
+.banner_title2{
+    color: black;
+
+}
+.banner h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.banner{
+    background: rgb(241, 204, 155);
+    text-align: left;
+    height: 500px;
+    padding: 5%;
+
+}
+
+.img_class{
+    box-shadow: 10px 10px 40px gray;
+    width: 26%;
+    height: 60%;
+    margin-left: 2%;
+    background-color: white;
+    border-radius:10%;
+    float: left;
+    padding: 2%;
+}
+.banner img{
+    width:280px;
+    height: 150px;
+ 
+    
+}
+
+.last_banner1{
+    background-image: url(images/Group_33094_1.png);
+    height: 300px;
+    background-size: 700px 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.last_banner2{
+    margin-left: 300px;
+    float: left;
+    margin-top: 140px;
+}
+.last_banner2 h2{
+    color: white;
+    font-weight: bold;
+    margin-top: -4px;
+    padding-left:60px;
+}
+footer h4{
+    color: gray;
+
+}
+.images{
+    width:50px;
+}
+footer a{
+    display: block;
+    font-weight: bold;
+    color: rgb(74, 74, 212);
+    font-size: 30px;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+.footer{
+    height: 200px;
+}
+
+
